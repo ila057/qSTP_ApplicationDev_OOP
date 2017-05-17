@@ -1,4 +1,4 @@
-Lab 4
+# Lab 4
 
 1.       Create a GUI having 3 buttons in a grid layout in class MeetingMgmt for adding a schedule, removing a schedule, viewing the schedule. The class should implement ActionListener on the buttons (import java.awt.* , import java.awt.event.* , import java.swing.* )
 
