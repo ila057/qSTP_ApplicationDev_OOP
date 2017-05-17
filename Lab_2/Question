@@ -1,8 +1,8 @@
-Lab 2
+# Lab 2
 
-ExecutiveSal, SupervisorSal, WorkerSal shall be the subclasses of the AllGrades class (i.e. they will inherit the AllGrades class)
+**ExecutiveSal, SupervisorSal, WorkerSal** shall be the subclasses of the **AllGrades** class (i.e. they will inherit the **AllGrades** class)
 
-For this, we will add a few extra features for each of the three grades, which are not implemented in the AllGrades. Since, the initial_total shall be different for each grade, remove it from AllGrades class, we shall initialize it separately in each of the subclasses.
+For this, we will add a few extra features for each of the three grades, which are not implemented in the **AllGrades**. Since, the **initial_total** shall be different for each grade, remove it from **AllGrades** class, we shall initialize it separately in each of the subclasses.
 
 Also change the public void calculateSalary() to public double calculateSalary(), and declare it as abstract method, correspondingly you have to declare the AllGrades class as abstract too. (Read a bit on abstract classes and methods). We declared the calculateSalary() as abstract since its implementation shall differ in each of the subclasses, but it is necessary to override it in each of the subclasses.
 
