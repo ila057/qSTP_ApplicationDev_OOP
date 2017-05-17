@@ -1,4 +1,4 @@
-Lab 1
+# Lab 1
 
 This is the first lab for the project. Its aim is to calculate the deduction from total salary (initial_total = Rs10000) depending on the sick leaves (sick_days) and the vacation leaves (vac_days) a person has taken. The amount to be deducted for sick leaves (deduction_on_sickl) is fixed to be Rs 50 per day. And the amount to be deducted for vacation leaves (deduction_on_vacl) is fixed at Rs 75 per day. You may take it to be of any amount of your choice.
 
