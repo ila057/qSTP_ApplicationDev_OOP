@@ -1,4 +1,4 @@
-Lab 3
+# Lab 3
 
 Remove deduction_on_sickl and deduction_on_vacl from AllGrades class.
 
