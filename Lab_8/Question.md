@@ -1,4 +1,4 @@
-Lab 8
+# Lab 8
 
 1.       Create a HashMap (theMap) and put some values in it, as loginID and corresponding password.
 
