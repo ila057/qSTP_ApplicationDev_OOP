@@ -1,4 +1,4 @@
-Lab 6 : Linking Up
+# Lab 6 : Linking Up
 
 1.       Create a GUI having 3 buttons in a grid layout in class MainMenu; for meeting management, predicting monthly salary and seeing employee recruitment
 
